@@ -2,39 +2,39 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/1234567891011121314?label=Discord&logo=discord)](https://discord.gg/your-invite-link)
+[![Discord](https://img.shields.io/discord/1234567891011121314?label=Join%20Us&logo=discord)](https://discord.gg/pmrnC7fjsg)
 
-**Professional Cookie Management Solution for Web Automation and Security Testing**
+> **A powerful, all-in-one cookie management solution for web automation, ethical hacking, and testing.**
 
-![CookieMaster Pro Interface](screenshots/main-ui.png)
+---
 
-## 🌟 Features
+## 🖼 Preview
 
-- **Universal Cookie Import**  
-  Supports JSON, Netscape, and raw cookie formats
-- **Smart Validation**  
-  Auto-checks cookie integrity and domain matching
-- **Browser Automation**  
-  Seamless Edge/Chrome integration with anti-detection
-- **Session Management**  
-  Automatic cookie injection and persistence
-- **Visual Debugging**  
-  Real-time cookie monitoring and logging
-- **Security First**  
-  Local storage only - no data collection
+<img src="https://github.com/Roshu18/CookieMaster-Pro---Ultimate-Cookie-Management-Suite/blob/main/images/img1.png?raw=true" width="600" alt="Main UI Preview"/>
 
-## 🚀 Quick Start
+---
 
-### Requirements
+## 🌟 Key Features
+
+- ✅ **Universal Cookie Import** — JSON, Netscape, and raw cookie formats  
+- 🔐 **Smart Validation** — Domain & expiry checks with integrity enforcement  
+- 🧠 **Browser Automation** — Chrome/Edge stealth integration  
+- 💾 **Session Persistence** — Automatic injection and retention  
+- 🐞 **Live Debugging** — Real-time cookie monitoring  
+- 🛡 **Privacy First** — Everything stays local, no data collection  
+
+---
+
+## 🚀 Get Started
+
+### 🔧 Requirements
 - Python 3.8+
-- Microsoft Edge/Chrome
-- Edge WebDriver/ChromeDriver
+- Microsoft Edge or Google Chrome
+- Corresponding WebDriver (EdgeDriver or ChromeDriver)
 
-### Installation
+### 📥 Installation
+
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/cookiemaster-pro.git
-cd cookiemaster-pro
-
-# Install dependencies
+git clone https://github.com/Roshu18/CookieMaster-Pro---Ultimate-Cookie-Management-Suite.git
+cd CookieMaster-Pro---Ultimate-Cookie-Management-Suite
 pip install -r requirements.txt
