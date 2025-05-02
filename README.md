@@ -38,3 +38,10 @@ cd cookiemaster-pro
 
 # Install dependencies
 pip install -r requirements.txt
+graph TD  
+  A[GUI Interface] --> B(Cookie Importer)  
+  B --> C{Validation Engine}  
+  C -->|Valid| D[Browser Automation]  
+  C -->|Invalid| E[Error Reporter]  
+  D --> F[Session Manager]  
+  F --> G[Result Analyzer]  
