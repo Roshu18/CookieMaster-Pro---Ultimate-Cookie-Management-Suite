@@ -10,7 +10,8 @@
 
 ## 🖼 Preview
 
-<img src="https://github.com/Roshu18/CookieMaster-Pro---Ultimate-Cookie-Management-Suite/blob/main/images/img1.png?raw=true" width="600" alt="Main UI Preview"/>
+<img src="https://github.com/Roshu18/CookieMaster-Pro---Ultimate-Cookie-Management-Suite/blob/main/images/img1.png?raw=true" width="600" alt="Main UI Preview"/> 
+
 
 ---
 
@@ -38,3 +39,6 @@
 git clone https://github.com/Roshu18/CookieMaster-Pro---Ultimate-Cookie-Management-Suite.git
 cd CookieMaster-Pro---Ultimate-Cookie-Management-Suite
 pip install -r requirements.txt
+```
+
+
